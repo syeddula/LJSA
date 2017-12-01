@@ -1,0 +1,19 @@
+{
+  "name": "stest",
+  "version": "1.0.0",
+  "description": "Test repo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/syeddula/LJSA.git"
+  },
+  "author": "syeddula",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/syeddula/LJSA/issues"
+  },
+  "homepage": "https://github.com/syeddula/LJSA#readme"
+}
